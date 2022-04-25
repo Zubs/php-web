@@ -6,6 +6,6 @@ class Controller
 {
     public function index()
     {
-        echo "Hello World";
+        echo $_ENV['XDEBUG_MODE'];
     }
 }

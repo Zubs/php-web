@@ -2,3 +2,7 @@
 vendor/
 *.lock
 *.asc
+*.env
+tests-report/
+!tests-report/.gitkeep
+*.cache
