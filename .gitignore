@@ -6,3 +6,6 @@ vendor/
 tests-report/
 !tests-report/.gitkeep
 *.cache
+.phpdoc
+docs/
+!docs/.gitkeep
